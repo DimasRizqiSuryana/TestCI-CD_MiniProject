@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 18.562 s <<< FAILURE! - in starter.CucumberTestSuite
+Posts #1.POST - As an admin I shouldn't be able to create new posts rating with invalid url  Time elapsed: 0.124 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'I send typo POST rating HTTP request' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("I send typo POST rating HTTP request")
+public void i_send_typo_post_rating_http_request() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

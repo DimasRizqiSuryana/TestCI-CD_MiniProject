@@ -1,0 +1,9 @@
+starter\stepdefinition\User_RatingandComment_steps.class
+starter\user\GET_Product.class
+starter\user\GET_RatingComment.class
+starter\CucumberTestSuite.class
+starter\user\POST_Product.class
+starter\user\POST_RatingComment.class
+starter\user\POST_Commant.class
+starter\user\DELETE_Product.class
+starter\stepdefinition\User_produuct_steps.class
